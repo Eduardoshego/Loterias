@@ -14,10 +14,5 @@ def criar_lista_de_numeros(qdt_numeros, range_numeros):
 
 def criar_lista_ordenada(lista):
     return sorted(lista)
-# Testando a função
 
 
-lista1 = criar_lista_de_numeros(6, 60)
-lista2 = criar_lista_ordenada(lista1)
-print(lista1)
-print(lista2)
